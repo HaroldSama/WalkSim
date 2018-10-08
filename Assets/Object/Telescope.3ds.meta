@@ -1,0 +1,709 @@
+fileFormatVersion: 2
+guid: 0498cbe671ccbca48946e7402947f75c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: bolt
+    100002: bolt1
+    100004: bolt2
+    100006: bolt3
+    100008: bolt4
+    100010: bolt5
+    100012: bolt6
+    100014: bolt7
+    100016: bolt8
+    100018: cable
+    100020: cable1
+    100022: Free Form
+    100024: 'Free Form '
+    100026: Free Form  1
+    100028: Free Form  10
+    100030: Free Form  11
+    100032: Free Form  12
+    100034: Free Form  13
+    100036: Free Form  14
+    100038: Free Form  15
+    100040: Free Form  16
+    100042: Free Form  17
+    100044: Free Form  18
+    100046: Free Form  19
+    100048: Free Form  2
+    100050: Free Form  20
+    100052: Free Form  21
+    100054: Free Form  22
+    100056: Free Form  23
+    100058: Free Form  24
+    100060: Free Form  25
+    100062: Free Form  26
+    100064: Free Form  27
+    100066: Free Form  3
+    100068: Free Form  4
+    100070: Free Form  5
+    100072: Free Form  6
+    100074: Free Form  7
+    100076: Free Form  8
+    100078: Free Form  9
+    100080: guage
+    100082: knob
+    100084: knob1
+    100086: leg
+    100088: leg1
+    100090: leg2
+    100092: leg3
+    100094: leg4
+    100096: leg5
+    100098: leg6
+    100100: leg7
+    100102: leg8
+    100104: lgpivot
+    100106: nut
+    100108: nut1
+    100110: nut2
+    100112: nut3
+    100114: nut4
+    100116: nut5
+    100118: nut6
+    100120: nut7
+    100122: nut8
+    100124: rod
+    100126: smallpivot
+    100128: Sphere
+    100130: spotter 2
+    100132: spotter3
+    100134: spotter4
+    100136: spotter5
+    100138: stand
+    100140: strap
+    100142: strap1
+    100144: strap2
+    100146: //RootNode
+    100148: tube
+    100150: weight
+    100152: wing
+    100154: wing1
+    100156: wing10
+    100158: wing11
+    100160: wing12
+    100162: wing13
+    100164: wing14
+    100166: wing15
+    100168: wing16
+    100170: wing17
+    100172: wing2
+    100174: wing3
+    100176: wing4
+    100178: wing5
+    100180: wing6
+    100182: wing7
+    100184: wing8
+    100186: wing9
+    400000: bolt
+    400002: bolt1
+    400004: bolt2
+    400006: bolt3
+    400008: bolt4
+    400010: bolt5
+    400012: bolt6
+    400014: bolt7
+    400016: bolt8
+    400018: cable
+    400020: cable1
+    400022: Free Form
+    400024: 'Free Form '
+    400026: Free Form  1
+    400028: Free Form  10
+    400030: Free Form  11
+    400032: Free Form  12
+    400034: Free Form  13
+    400036: Free Form  14
+    400038: Free Form  15
+    400040: Free Form  16
+    400042: Free Form  17
+    400044: Free Form  18
+    400046: Free Form  19
+    400048: Free Form  2
+    400050: Free Form  20
+    400052: Free Form  21
+    400054: Free Form  22
+    400056: Free Form  23
+    400058: Free Form  24
+    400060: Free Form  25
+    400062: Free Form  26
+    400064: Free Form  27
+    400066: Free Form  3
+    400068: Free Form  4
+    400070: Free Form  5
+    400072: Free Form  6
+    400074: Free Form  7
+    400076: Free Form  8
+    400078: Free Form  9
+    400080: guage
+    400082: knob
+    400084: knob1
+    400086: leg
+    400088: leg1
+    400090: leg2
+    400092: leg3
+    400094: leg4
+    400096: leg5
+    400098: leg6
+    400100: leg7
+    400102: leg8
+    400104: lgpivot
+    400106: nut
+    400108: nut1
+    400110: nut2
+    400112: nut3
+    400114: nut4
+    400116: nut5
+    400118: nut6
+    400120: nut7
+    400122: nut8
+    400124: rod
+    400126: smallpivot
+    400128: Sphere
+    400130: spotter 2
+    400132: spotter3
+    400134: spotter4
+    400136: spotter5
+    400138: stand
+    400140: strap
+    400142: strap1
+    400144: strap2
+    400146: //RootNode
+    400148: tube
+    400150: weight
+    400152: wing
+    400154: wing1
+    400156: wing10
+    400158: wing11
+    400160: wing12
+    400162: wing13
+    400164: wing14
+    400166: wing15
+    400168: wing16
+    400170: wing17
+    400172: wing2
+    400174: wing3
+    400176: wing4
+    400178: wing5
+    400180: wing6
+    400182: wing7
+    400184: wing8
+    400186: wing9
+    2100000: Free Form_
+    2100002: strap
+    2100004: leg
+    2100006: bolt
+    2100008: bolt1
+    2100010: bolt2
+    2100012: wing
+    2100014: wing1
+    2100016: wing2
+    2100018: nut
+    2100020: nut1
+    2100022: nut2
+    2100024: nut3
+    2100026: wing3
+    2100028: wing4
+    2100030: wing5
+    2100032: bolt3
+    2100034: bolt4
+    2100036: bolt5
+    2100038: wing6
+    2100040: wing7
+    2100042: wing8
+    2100044: nut4
+    2100046: nut5
+    2100048: nut6
+    2100050: nut7
+    2100052: wing9
+    2100054: wing10
+    2100056: wing11
+    2100058: bolt6
+    2100060: bolt7
+    2100062: bolt8
+    2100064: wing12
+    2100066: wing13
+    2100068: wing14
+    2100070: nut8
+    2100072: nut9
+    2100074: nut10
+    2100076: nut11
+    2100078: wing15
+    2100080: wing16
+    2100082: wing17
+    2100084: bolt9
+    2100086: bolt10
+    2100088: bolt11
+    2100090: wing18
+    2100092: wing19
+    2100094: wing20
+    2100096: nut12
+    2100098: nut13
+    2100100: nut14
+    2100102: nut15
+    2100104: wing21
+    2100106: wing22
+    2100108: wing23
+    2100110: bolt12
+    2100112: bolt13
+    2100114: bolt14
+    2100116: wing24
+    2100118: wing25
+    2100120: wing26
+    2100122: nut16
+    2100124: nut17
+    2100126: nut18
+    2100128: nut19
+    2100130: wing27
+    2100132: wing28
+    2100134: wing29
+    2100136: bolt15
+    2100138: bolt16
+    2100140: bolt17
+    2100142: wing30
+    2100144: wing31
+    2100146: wing32
+    2100148: nut20
+    2100150: nut21
+    2100152: nut22
+    2100154: nut23
+    2100156: wing33
+    2100158: wing34
+    2100160: wing35
+    2100162: bolt18
+    2100164: bolt19
+    2100166: bolt20
+    2100168: wing36
+    2100170: wing37
+    2100172: wing38
+    2100174: nut24
+    2100176: nut25
+    2100178: nut26
+    2100180: nut27
+    2100182: wing39
+    2100184: wing40
+    2100186: wing41
+    2100188: bolt21
+    2100190: bolt22
+    2100192: bolt23
+    2100194: wing42
+    2100196: wing43
+    2100198: wing44
+    2100200: nut28
+    2100202: nut29
+    2100204: nut30
+    2100206: nut31
+    2100208: wing45
+    2100210: wing46
+    2100212: wing47
+    2100214: bolt24
+    2100216: bolt25
+    2100218: bolt26
+    2100220: wing48
+    2100222: wing49
+    2100224: wing50
+    2100226: nut32
+    2100228: nut33
+    2100230: nut34
+    2100232: nut35
+    2100234: wing51
+    2100236: wing52
+    2100238: wing53
+    2100240: cable
+    2100242: cable1
+    2100244: cable2
+    2100246: knob
+    2100248: knob1
+    2100250: Free Form 1
+    2100252: Free Form2
+    2100254: Free Form3
+    2100256: Free Form4
+    2100258: Free Form5
+    2100260: Free Form6
+    2100262: Free Form7
+    2100264: Free Form8
+    2100266: cable3
+    2100268: cable4
+    2100270: cable5
+    2100272: knob2
+    2100274: Free Form9
+    2100276: Free Form10
+    2100278: Free Form11
+    2100280: Free Form12
+    2100282: Free Form13
+    2100284: Free Form14
+    2100286: Free Form15
+    2100288: Free Form16
+    2100290: Free Form17
+    2100292: tube
+    2100294: Free Form18
+    2100296: Free Form19
+    2100298: Free Form20
+    2100300: Free Form21
+    2100302: smallpivot
+    2100304: weight
+    2100306: Sphere
+    2300000: bolt
+    2300002: bolt1
+    2300004: bolt2
+    2300006: bolt3
+    2300008: bolt4
+    2300010: bolt5
+    2300012: bolt6
+    2300014: bolt7
+    2300016: bolt8
+    2300018: cable
+    2300020: cable1
+    2300022: Free Form
+    2300024: 'Free Form '
+    2300026: Free Form  1
+    2300028: Free Form  10
+    2300030: Free Form  11
+    2300032: Free Form  12
+    2300034: Free Form  13
+    2300036: Free Form  14
+    2300038: Free Form  15
+    2300040: Free Form  16
+    2300042: Free Form  17
+    2300044: Free Form  18
+    2300046: Free Form  19
+    2300048: Free Form  2
+    2300050: Free Form  20
+    2300052: Free Form  21
+    2300054: Free Form  22
+    2300056: Free Form  23
+    2300058: Free Form  24
+    2300060: Free Form  25
+    2300062: Free Form  26
+    2300064: Free Form  27
+    2300066: Free Form  3
+    2300068: Free Form  4
+    2300070: Free Form  5
+    2300072: Free Form  6
+    2300074: Free Form  7
+    2300076: Free Form  8
+    2300078: Free Form  9
+    2300080: guage
+    2300082: knob
+    2300084: knob1
+    2300086: leg
+    2300088: leg1
+    2300090: leg2
+    2300092: leg3
+    2300094: leg4
+    2300096: leg5
+    2300098: leg6
+    2300100: leg7
+    2300102: leg8
+    2300104: lgpivot
+    2300106: nut
+    2300108: nut1
+    2300110: nut2
+    2300112: nut3
+    2300114: nut4
+    2300116: nut5
+    2300118: nut6
+    2300120: nut7
+    2300122: nut8
+    2300124: rod
+    2300126: smallpivot
+    2300128: Sphere
+    2300130: spotter 2
+    2300132: spotter3
+    2300134: spotter4
+    2300136: spotter5
+    2300138: stand
+    2300140: strap
+    2300142: strap1
+    2300144: strap2
+    2300146: tube
+    2300148: weight
+    2300150: wing
+    2300152: wing1
+    2300154: wing10
+    2300156: wing11
+    2300158: wing12
+    2300160: wing13
+    2300162: wing14
+    2300164: wing15
+    2300166: wing16
+    2300168: wing17
+    2300170: wing2
+    2300172: wing3
+    2300174: wing4
+    2300176: wing5
+    2300178: wing6
+    2300180: wing7
+    2300182: wing8
+    2300184: wing9
+    3300000: bolt
+    3300002: bolt1
+    3300004: bolt2
+    3300006: bolt3
+    3300008: bolt4
+    3300010: bolt5
+    3300012: bolt6
+    3300014: bolt7
+    3300016: bolt8
+    3300018: cable
+    3300020: cable1
+    3300022: Free Form
+    3300024: 'Free Form '
+    3300026: Free Form  1
+    3300028: Free Form  10
+    3300030: Free Form  11
+    3300032: Free Form  12
+    3300034: Free Form  13
+    3300036: Free Form  14
+    3300038: Free Form  15
+    3300040: Free Form  16
+    3300042: Free Form  17
+    3300044: Free Form  18
+    3300046: Free Form  19
+    3300048: Free Form  2
+    3300050: Free Form  20
+    3300052: Free Form  21
+    3300054: Free Form  22
+    3300056: Free Form  23
+    3300058: Free Form  24
+    3300060: Free Form  25
+    3300062: Free Form  26
+    3300064: Free Form  27
+    3300066: Free Form  3
+    3300068: Free Form  4
+    3300070: Free Form  5
+    3300072: Free Form  6
+    3300074: Free Form  7
+    3300076: Free Form  8
+    3300078: Free Form  9
+    3300080: guage
+    3300082: knob
+    3300084: knob1
+    3300086: leg
+    3300088: leg1
+    3300090: leg2
+    3300092: leg3
+    3300094: leg4
+    3300096: leg5
+    3300098: leg6
+    3300100: leg7
+    3300102: leg8
+    3300104: lgpivot
+    3300106: nut
+    3300108: nut1
+    3300110: nut2
+    3300112: nut3
+    3300114: nut4
+    3300116: nut5
+    3300118: nut6
+    3300120: nut7
+    3300122: nut8
+    3300124: rod
+    3300126: smallpivot
+    3300128: Sphere
+    3300130: spotter 2
+    3300132: spotter3
+    3300134: spotter4
+    3300136: spotter5
+    3300138: stand
+    3300140: strap
+    3300142: strap1
+    3300144: strap2
+    3300146: tube
+    3300148: weight
+    3300150: wing
+    3300152: wing1
+    3300154: wing10
+    3300156: wing11
+    3300158: wing12
+    3300160: wing13
+    3300162: wing14
+    3300164: wing15
+    3300166: wing16
+    3300168: wing17
+    3300170: wing2
+    3300172: wing3
+    3300174: wing4
+    3300176: wing5
+    3300178: wing6
+    3300180: wing7
+    3300182: wing8
+    3300184: wing9
+    4300000: 'Free Form '
+    4300002: strap
+    4300004: strap1
+    4300006: strap2
+    4300008: leg
+    4300010: leg1
+    4300012: leg2
+    4300014: leg3
+    4300016: leg4
+    4300018: leg5
+    4300020: leg6
+    4300022: leg7
+    4300024: leg8
+    4300026: bolt
+    4300028: wing
+    4300030: nut
+    4300032: wing1
+    4300034: bolt1
+    4300036: wing2
+    4300038: nut1
+    4300040: wing3
+    4300042: bolt2
+    4300044: wing4
+    4300046: nut2
+    4300048: wing5
+    4300050: bolt3
+    4300052: wing6
+    4300054: nut3
+    4300056: wing7
+    4300058: bolt4
+    4300060: wing8
+    4300062: nut4
+    4300064: wing9
+    4300066: bolt5
+    4300068: wing10
+    4300070: nut5
+    4300072: wing11
+    4300074: bolt6
+    4300076: wing12
+    4300078: nut6
+    4300080: wing13
+    4300082: bolt7
+    4300084: wing14
+    4300086: nut7
+    4300088: wing15
+    4300090: bolt8
+    4300092: wing16
+    4300094: nut8
+    4300096: wing17
+    4300098: 'Free Form '
+    4300100: 'Free Form '
+    4300102: 'Free Form '
+    4300104: 'Free Form '
+    4300106: 'Free Form '
+    4300108: 'Free Form '
+    4300110: 'Free Form '
+    4300112: 'Free Form '
+    4300114: 'Free Form '
+    4300116: 'Free Form '
+    4300118: 'Free Form '
+    4300120: 'Free Form '
+    4300122: 'Free Form '
+    4300124: cable
+    4300126: knob
+    4300128: 'Free Form '
+    4300130: 'Free Form '
+    4300132: 'Free Form '
+    4300134: 'Free Form '
+    4300136: 'Free Form '
+    4300138: cable1
+    4300140: knob1
+    4300142: 'Free Form '
+    4300144: 'Free Form '
+    4300146: 'Free Form '
+    4300148: tube
+    4300150: Free Form
+    4300152: 'Free Form '
+    4300154: 'Free Form '
+    4300156: 'Free Form '
+    4300158: 'Free Form '
+    4300160: 'Free Form '
+    4300162: 'Free Form '
+    4300164: stand
+    4300166: spotter 2
+    4300168: spotter3
+    4300170: spotter4
+    4300172: spotter5
+    4300174: smallpivot
+    4300176: lgpivot
+    4300178: guage
+    4300180: rod
+    4300182: weight
+    4300184: Sphere
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
